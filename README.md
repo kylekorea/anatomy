@@ -1,3 +1,5 @@
+> 연습용 Fork입니다. (GitHub 사용법을 익히기 위한 복사본)
+
 <h1 align="center">Anatomy</h1>
 
 <p align="center"><b>A Claude skill that explains an idea by building it as a real, working object.</b><br>Also runs in Antigravity, OpenCode, Codex and MiniMax Code.<br>Crafted, interactive isometric figures with many small precise parts, in SVG, WebGL and 3D.</p>
